@@ -3,6 +3,8 @@ TechVision RD — Plataforma web de transformación digital para PyMEs dominican
 
 TechVision RD es una firma de consultoría y desarrollo tecnológico orientada a ofrecer servicios integrales de digitalización, asesoría avanzada y automatización de flujos de trabajo para pequeñas y medianas empresas (PyMEs) en la República Dominicana. La plataforma permite a los usuarios simular cotizaciones de proyectos, conocer la metodología de trabajo y acceder a información corporativa mediante autenticación segura con Google.
 
+<img width="952" height="306" alt="Screenshot 2026-06-07 213820" src="https://github.com/user-attachments/assets/cdfc02b5-59f1-493c-81dd-e0313d9d456f" />
+
 **Codigo fuente** 
 
 // TechVision RD - Interactive JS Controls, Mode Selector & Firebase Auth (Multi-page Edition)
