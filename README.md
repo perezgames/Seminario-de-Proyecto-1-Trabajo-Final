@@ -1,7 +1,7 @@
 # Seminario-de-Proyecto-1-Trabajo-Final
 TechVision RD — Plataforma web de transformación digital para PyMEs dominicanas. Desarrollada con React.js, Node.js y PostgreSQL. Incluye autenticación con Google, cotizador de proyectos y panel de servicios. Proyecto final — Seminario de Proyecto I, UAPA Mayo- Julio 2026.
 
-TechVision RD es una firma de consultoría y desarrollo tecnológico orientada a ofrecer servicios integrales de digitalización, asesoría avanzada y automatización de flujos de trabajo para pequeñas y medianas empresas (PyMEs) en la República Dominicana. La plataforma permite a los usuarios simular cotizaciones de proyectos, conocer la metodología de trabajo y acceder a información corporativa mediante autenticación segura con Google.
+TechVision RD es una firma de consultoría y desarrollo tecnológico orientada a ofrecer servicios integrales de digitalización, asesoría avanzada y automatización de flujos de trabajo para pequeñas y medianas empresas (PyMEs) en la República Dominicana. La plataforma permite a los usuariProg Disp Moviles Proyecto INV FINALos simular cotizaciones de proyectos, conocer la metodología de trabajo y acceder a información corporativa mediante autenticación segura con Google.
 
 <img width="952" height="306" alt="Screenshot 2026-06-07 213820" src="https://github.com/user-attachments/assets/cdfc02b5-59f1-493c-81dd-e0313d9d456f" />
 
@@ -37,7 +37,6 @@ const firebaseConfig = {
   projectId: "techvision-rd-100059326",
   appId: "1:789249374221:web:7d3a0a4cd0e7389cf23d44",
   storageBucket: "techvision-rd-100059326.firebasestorage.app",
-  apiKey: "AIzaSyByteRP532BlAgc7SveSyx2EtMOzT9o5Iw",
   authDomain: "techvision-rd-100059326.firebaseapp.com",
   messagingSenderId: "789249374221",
   projectNumber: "789249374221"
